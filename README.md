@@ -40,12 +40,14 @@ resources in future games.
 
 
 What do you have to do?
- You will have to write a document with the following sections:- Cover Page: Title "Galaxy Quest Game Analysis," class/group (e.g., 1st 
-DAW/DAM), and your name.- Table of Contents- Introduction: Explain the project to be developed.- Software Requirements Specification (SRS): Include three subsections:
+You will have to write a document with the following sections:- Cover Page: Title "Galaxy Quest Game Analysis," class/group (e.g., 1st 
+DAW/DAM), and your name.
+Table of Contents- Introduction: Explain the project to be developed.- Software Requirements Specification (SRS): Include three subsections:
     - Functional Requirements
     - Non-Functional Requirements
     - System Requirements
-   Specify the requirements of each type based on the information provided in 
-the introduction.- Use Case Diagram: Illustrate the general behavior of the project. Make sure to 
-include extends and include relationships where appropriate.- Two Activity Diagrams: Create activity diagrams for two use cases within the 
+   Specify the requirements of each type based on the information provided in the introduction.
+   - Use Case Diagram: Illustrate the general behavior of the project.
+-Make sure to include extends and include relationships where appropriate.
+  Two Activity Diagrams: Create activity diagrams for two use cases within the 
 project. 
